@@ -64,7 +64,7 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
 - Detecting clusters of varying shapes and sizes.
 - Identifying outliers or noise, which are customers whose behavior deviates significantly from the average.
 
- - Steps Followed
+  Steps Followed
 
 ### Data Preprocessing:
 
