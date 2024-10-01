@@ -101,19 +101,8 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
 ![project pic 4](https://github.com/user-attachments/assets/d7f2e296-2f17-4a43-b69e-19c161925a0f)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Comparison of Kmean Model, Hierarchical Model, DBSCAN Model with respect Silhouette Score
+![PROJECT pic 5](https://github.com/user-attachments/assets/0ddb32a1-4068-4d1d-8e0d-c984a3165594)
 
 
 
