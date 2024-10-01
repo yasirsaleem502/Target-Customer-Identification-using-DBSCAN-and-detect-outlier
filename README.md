@@ -58,22 +58,25 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
   
 ### Key advantages of DBSCAN include:
 
-Detecting clusters of varying shapes and sizes.
-Identifying outliers or noise, which are customers whose behavior deviates significantly from the average.
+- Detecting clusters of varying shapes and sizes.
+- Identifying outliers or noise, which are customers whose behavior deviates significantly from the average.
 
-### Steps Followed
-Data Preprocessing:
+ - Steps Followed
+
+### Data Preprocessing:
 
 - Converted categorical data (Gender) into numerical format using label encoding.
 - Scaled the numerical data using StandardScaler to normalize features such as age, income, and spending score.
-Clustering with DBSCAN:
+  
+### Clustering with DBSCAN:
 
 - Applied DBSCAN with varying parameters (eps and min_samples) to identify clusters and outliers.
 - Used the Manhattan distance metric for distance calculations, as it performed better for this dataset compared to Euclidean distance.
   
 ### Outlier Detection:
 
-Outliers were detected by DBSCAN and labeled as -1 in the results. These outliers represent customers who do not belong to any of the clusters and exhibit unusual spending behavior or income.
+- Outliers were detected by DBSCAN and labeled as -1 in the results. 
+- These outliers represent customers who do not belong to any of the clusters and exhibit unusual spending behavior or income.
 
 ### Evaluation:
 - Evaluated clustering performance using the Silhouette Score, which measures how well points are clustered in terms of cohesion and separation.
