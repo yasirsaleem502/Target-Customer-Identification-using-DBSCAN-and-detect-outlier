@@ -104,6 +104,8 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
 ### Comparison of Kmean Model, Hierarchical Model, DBSCAN Model with respect Silhouette Score
 ![PROJECT pic 5](https://github.com/user-attachments/assets/0ddb32a1-4068-4d1d-8e0d-c984a3165594)
 
+- Improving the Silhouette Score in clustering algorithms such as K-Means, Hierarchical Clustering, and DBSCAN often involves fine-tuning parameters, preprocessing the dataset, or adjusting the algorithm's settings.
+
 
 
 
