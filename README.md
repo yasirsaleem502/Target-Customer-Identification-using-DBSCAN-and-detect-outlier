@@ -88,6 +88,31 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
 
 ## Reasult
 
+### K-Means Clustering Results with PCA
+![project pic 1](https://github.com/user-attachments/assets/a6582825-5b07-41c5-b595-a17ee341b78c)
+
+### Hierarchical Dendrogram
+![project pic 2](https://github.com/user-attachments/assets/00bda7dd-2924-4ba1-9575-f7f96793d320)
+
+### Agglomerative or hierarchical Clustering Results with PCA
+![project pic 3](https://github.com/user-attachments/assets/2ca77e55-0fad-42bd-80c7-f88890d3bded)
+
+### DBSCAN Clustering Results with PCA
+![project pic 4](https://github.com/user-attachments/assets/d7f2e296-2f17-4a43-b69e-19c161925a0f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
