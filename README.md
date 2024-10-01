@@ -22,7 +22,7 @@ The primary objectives of this analysis are:
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [DBSCAN Algorithm](#dBSCAN-algorithm)
-- [Contact](#contact)
+- [Evaluation](#evaluation)
 
 - 
 ## Introduction
