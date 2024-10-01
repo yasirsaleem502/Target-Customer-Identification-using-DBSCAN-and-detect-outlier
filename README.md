@@ -21,7 +21,7 @@ The primary objectives of this analysis are:
 - [Features](#features)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
-- [Results](#results)
+- [DBSCAN Algorithm](#dBSCAN-algorithm)
 - [Contact](#contact)
 
 - 
