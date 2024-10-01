@@ -8,13 +8,15 @@
 
 ## Project Overview
 
-The objective of this case study is to develop a clustering model that segments customers based on their spending behavior, income, and other demographics. Additionally, the model should identify outliers—customers whose behavior significantly deviates from the general population. Outliers can often represent either very high-value or very low-value customers, both of which could require different marketing approaches
+The objective of this case study is to develop a clustering model that segments customers based on their spending behavior, income, and other demographics. Additionally, the model should identify outliers—customers whose behavior significantly deviates from the general population. Outliers can often represent either very high-value or very low-value customers, both of which could require different marketing approaches.
 
 ## Objective
 The primary objectives of this analysis are:
 - To segment customers based on demographics and spending behaviour.
 - To understand the relationship between income, age, gender, and spending score.
 - To provide actionable insights for targeted marketing strategies
+
+We have applied the same data to K-means clustering, hierarchical clustering, and the DBSCAN algorithm to compare their results and highlight the differences. Then, we detected outliers.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,8 +25,9 @@ The primary objectives of this analysis are:
 - [Methodology](#methodology)
 - [DBSCAN Algorithm](#dBSCAN-algorithm)
 - [Evaluation](#evaluation)
-
-- 
+- [Reasult](#Reasult)
+- [Contact](#contact)
+  
 ## Introduction
 
 Understanding customer behavior is vital for businesses, especially in the retail sector. By analyzing customer demographics and spending habits, companies can enhance their marketing strategies, improve customer satisfaction, and boost overall sales. This case study focuses on analyzing a customer dataset from a mall to derive insights into customer segments based on gender, age, annual income, and spending score.
@@ -83,23 +86,26 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a cluste
 - Visualized the clusters and outliers using Principal Component Analysis (PCA) for dimensionality reduction.
 
 
+## Reasult
 
 
 
 
 
 
-## Installation
+ ## Contact
 
-To run this project, you need to have Python 3.8 or above and the following libraries installed:
+- Author: Muhammad Yasir Saleem
+- Email: myasirsaleem94@gmail.com
+- LinkedIn:https://www.linkedin.com/in/muhammad-yasir-saleem/
 
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
 
-You can install the required libraries using pip:
+Feel free to reach out if you have any questions or need further information.
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+
+
+
+
+
